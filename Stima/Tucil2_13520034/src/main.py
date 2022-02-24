@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from sklearn import datasets, multiclass
 from myConvexHull import MyConvexHull
 #UBAH DATA YANG INGIN DI PLOT DI SINI=======================================
-data = datasets.load_linnerud()
+data = datasets.load_iris()
 #UBAH DATA YANG INGIN DI PLOT DI SINI=======================================
 
 # create a DataFrame

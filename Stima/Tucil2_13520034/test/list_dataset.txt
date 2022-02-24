@@ -1,0 +1,6 @@
+Silahkan Ubah line 10 pada main.py dengan salah satu line dari:
+data = datasets.load_boston()
+data = datasets.load_iris()
+data = datasets.load_diabetes()
+data = datasets.load_wine()
+data = datasets.load_breast_cancer()

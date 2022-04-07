@@ -7,3 +7,9 @@
 [submodule "Stima/Tubes2_13520034"]
 	path = Stima/Tubes2_13520034
 	url = https://github.com/fernaldy112/Tubes2_13520034
+[submodule "OOP/Tubes1OOP"]
+	path = OOP/Tubes1OOP
+	url = https://github.com/bryanbernigen/Tubes1_OOP
+[submodule "Probstat/Tubes1_Probstat"]
+	path = Probstat/Tubes1_Probstat
+	url = https://github.com/bryanbernigen/Tubes1_Probstat

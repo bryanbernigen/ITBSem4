@@ -16,3 +16,12 @@
 [submodule "RPL/if2250-2021-k01-02-suryamenerangi.id"]
 	path = RPL/if2250-2021-k01-02-suryamenerangi.id
 	url = https://gitlab.informatika.org/Adityapnn811/if2250-2021-k01-02-suryamenerangi.id.git
+[submodule "OOP/Tubes2_OOP"]
+	path = OOP/Tubes2_OOP
+	url = https://github.com/bryanbernigen/Tubes2_OOP
+[submodule "OOP/Tubes2OOP"]
+	path = OOP/Tubes2OOP
+	url = https://github.com/Audino723/Tubes2_OOP
+[submodule "Stima/Tubes3_13520019"]
+	path = Stima/Tubes3_13520019
+	url = https://github.com/bryanbernigen/Tubes3_13520019

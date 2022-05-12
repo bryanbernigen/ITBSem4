@@ -1,9 +1,6 @@
 [submodule "Stima/Tubes1_Ngeeeng"]
 	path = Stima/Tubes1_Ngeeeng
 	url = https://github.com/sivaren/Tubes1_Ngeeeng
-[submodule "OS/tugas-besar-os-ngos"]
-	path = OS/tugas-besar-os-ngos
-	url = https://github.com/Sister19/tugas-besar-os-ngos
 [submodule "Stima/Tubes2_13520034"]
 	path = Stima/Tubes2_13520034
 	url = https://github.com/fernaldy112/Tubes2_13520034
@@ -25,3 +22,6 @@
 [submodule "Stima/Tubes3_13520019"]
 	path = Stima/Tubes3_13520019
 	url = https://github.com/bryanbernigen/Tubes3_13520019
+[submodule "OS/TubesOS"]
+	path = OS/TubesOS
+	url = https://github.com/Sister19/tugas-besar-os-ngos

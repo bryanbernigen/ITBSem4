@@ -25,3 +25,6 @@
 [submodule "OS/TubesOS"]
 	path = OS/TubesOS
 	url = https://github.com/Sister19/tugas-besar-os-ngos
+[submodule "Aslab"]
+	path = Aslab
+	url = https://github.com/bryanbernigen/Aslab
